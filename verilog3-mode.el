@@ -254,6 +254,7 @@
     "while"
     "initial"
     "final"
+    "repeat"
     "always"
     "always_latch"
     "always_ff"
